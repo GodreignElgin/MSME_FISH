@@ -1,0 +1,25 @@
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.inner-container{
+    width: 90vw;
+    height: 90vh;
+    background-color: yellow;       
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border: 2px solid black ;
+}
+
+.inter-container{
+    height: 70%;
+    width: 70%;
+    background-color: yellowgreen;
+
+}
